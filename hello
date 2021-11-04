@@ -1,1 +1,3 @@
 print("Hello world")
+x = "Omar"
+print("Hello "+x)
